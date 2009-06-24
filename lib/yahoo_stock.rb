@@ -11,7 +11,6 @@ require 'open-uri'
 
 module Yahoo
   class Stock
-    VERSION = '0.0.3'
     BASE_URI = 'http://au.finance.yahoo.com/q?s='
   end
 end
