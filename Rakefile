@@ -9,6 +9,7 @@ begin
     gem.email = "sct@sct.com.au"
     gem.homepage = "http://github.com/square-circle-triangle/yahoo_stock"
     gem.authors = ["Square Circle Triangle"]
+    gem.add_dependency "hpricot"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 
