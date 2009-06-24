@@ -6,9 +6,9 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "yahoo_stock"
     gem.summary = %Q{TODO}
-    gem.email = "steve@seven.net.nz"
-    gem.homepage = "http://github.com/steveh/yahoo_stock"
-    gem.authors = ["Steve Hoeksema"]
+    gem.email = "sct@sct.com.au"
+    gem.homepage = "http://github.com/square-circle-triangle/yahoo_stock"
+    gem.authors = ["Square Circle Triangle"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 
