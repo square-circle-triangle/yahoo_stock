@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "yahoo_stock"
-    gem.summary = %Q{TODO}
+    gem.summary = "Fetches stock data from Yahoo Australia"
     gem.email = "sct@sct.com.au"
     gem.homepage = "http://github.com/square-circle-triangle/yahoo_stock"
     gem.authors = ["Square Circle Triangle"]

@@ -23,13 +23,14 @@ Gem::Specification.new do |s|
      "lib/yahoo_stock/base.rb",
      "lib/yahoo_stock/query.rb",
      "spec/spec_helper.rb",
-     "spec/yahoo_stock_spec.rb"
+     "spec/yahoo_stock_spec.rb",
+     "yahoo_stock.gemspec"
   ]
   s.homepage = %q{http://github.com/square-circle-triangle/yahoo_stock}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.3}
-  s.summary = %q{TODO}
+  s.summary = %q{Fetches stock data from Yahoo Australia}
   s.test_files = [
     "spec/spec_helper.rb",
      "spec/yahoo_stock_spec.rb"
