@@ -1,7 +1,6 @@
 # Yahoo Stock "API wrapper"
 
 # Dependencies
-require 'rubygems'
 require 'hpricot'
 require 'open-uri'
 
